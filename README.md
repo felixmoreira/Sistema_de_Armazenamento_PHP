@@ -3,7 +3,7 @@ Criação de sistema em PHP para armazenar dados com segurança em arquivos crip
 
 Utilizando como base código PHP, orientação a objeto usando uma função base de comando de entrada e saida de dados, exemplo de funcao PHP:
 
-<?php
+
 //entrada de dados
 db(“db”,”id”,”titulo”,”valor”); //teste de conexão retorna true ou false.
 
@@ -16,4 +16,3 @@ db(“db”,”id”); //lista titulos de id registrado.
 db(“db”); //lista todos id registrado no banco de dados.
 db(); //lista todos os banco de dados registrados.
 
-?>
