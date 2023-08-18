@@ -1,6 +1,5 @@
 # Sistema_de_Armazenamento_PHP
 Criação de sistema em PHP para armazenar dados com segurança em arquivos criptografados para uso interno e externo com API REST.
-
 Utilizando como base código PHP, orientação a objeto usando uma função base de comando de entrada e saida de dados.
 
 # Introdução comando de class interna
