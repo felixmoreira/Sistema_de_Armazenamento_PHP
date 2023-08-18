@@ -8,11 +8,11 @@ Utilizando como base código PHP, orientação a objeto usando uma função base
 db(“db”,”id”,”titulo”,”valor”); //teste de conexão retorna true ou false.
 
 
-//entrada de dados
+//entrada de dados.
 db(“db”,”id”,”titulo”,”valor”); //salva novo dado.
 
 
-//saida de dados
+//saida de dados.
 db(“db”,”id”,”titulo”); //lista valores em um array.
 db(“db”,”id”); //lista titulos de id registrado.
 db(“db”); //lista todos id registrado no banco de dados.
