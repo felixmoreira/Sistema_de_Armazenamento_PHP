@@ -15,4 +15,3 @@ db(“db”) - lista todos id registrado no banco de dados.
 
 db() - lista todos os banco de dados registrados.
 
-
