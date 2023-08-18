@@ -6,17 +6,15 @@ Utilizando como base código PHP, orientação a objeto usando uma função base
 # Introdução comando de class interna
 
 ## Entrada de Dados
-
-db(“db”,”id”,”titulo”,”valor”) - salva novo dado.
+### db(“db”,”id”,”titulo”,”valor”) - salva novo dado.
 
 ## Saida de Dados
+### db(“db”,”id”,”titulo”) - lista valores em um array.
 
-db(“db”,”id”,”titulo”) - lista valores em um array.
+### db(“db”,”id”) - lista titulos de id registrado.
 
-db(“db”,”id”) - lista titulos de id registrado.
+### db(“db”) - lista todos id registrado no banco de dados.
 
-db(“db”) - lista todos id registrado no banco de dados.
-
-db() - lista todos os banco de dados registrados.
+### db() - lista todos os banco de dados registrados.
 
 
